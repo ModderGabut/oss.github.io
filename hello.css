@@ -1,0 +1,47 @@
+#textcenter{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: auto;
+    margin: 20px;
+}
+#body{
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("background_blue-and-white.jpg");
+}
+#judul{
+    text-align: center;
+}
+#text{
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+#judul1{
+    text-align: center;
+}
+#text1{
+    text-align: left;
+}
+#ct{
+    color: blue;
+}
+#ct1{
+    color: red;
+}
+#about{
+    text-align: right;
+}
+h2{
+    text-align: center;
+}
+#ck{
+    color: blueviolet;
+    text-align: center;
+}
+#ct2{
+    color: green;
+}
+#ct3{
+    color: green;
+}
